@@ -1,2 +1,2 @@
-# mooc-view-count
-YouTube MIT OCW view counts
+# view-count
+YouTube MIT view count data visualized
