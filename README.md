@@ -1,6 +1,6 @@
 # MIT Course View Count Analysis
 
-Ever notice how the view count on any YouTube MOOC (massive open online course) playlist falls with each lecture? No? Well I did and sought to visualize it! Using numerical analysis and data visualization with Python, I did just that! 
+Ever notice how the view count on any YouTube course playlist falls with each lecture? No? Well I did and sought to visualize that! By analyzing a selection of MIT's most visited courses on YouTube I arrived at the following graphic:
 
 ![all](https://raw.githubusercontent.com/jagrajs/view-counts/master/all.png)
 
